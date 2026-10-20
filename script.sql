@@ -118,7 +118,7 @@ insert into pedido(id_cliente,id_produto,quantidade,valor_unitario) values
 (12, 13, 1, 1599.90),
 (12, 14, 1, 499.90),
 (13, 1, 1, 899.90),
-(13, 6, 1, 3499.90),
+(13, 6, 1, 3499.90),    
 (13, 12, 2, 649.90);
 
 select * from cliente;
